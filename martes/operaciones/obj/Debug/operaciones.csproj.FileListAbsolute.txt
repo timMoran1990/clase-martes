@@ -1,0 +1,10 @@
+c:\Users\Lab3\documents\visual studio 2013\Projects\martes\operaciones\bin\Debug\operaciones.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\martes\operaciones\bin\Debug\operaciones.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\martes\operaciones\obj\Debug\operaciones.csprojResolveAssemblyReference.cache
+c:\Users\Lab3\documents\visual studio 2013\Projects\martes\operaciones\obj\Debug\operaciones.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\martes\operaciones\obj\Debug\operaciones.pdb
+C:\Users\Tim\Desktop\guia c#\martes\operaciones\bin\Debug\operaciones.dll
+C:\Users\Tim\Desktop\guia c#\martes\operaciones\bin\Debug\operaciones.pdb
+C:\Users\Tim\Desktop\guia c#\martes\operaciones\obj\Debug\operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\guia c#\martes\operaciones\obj\Debug\operaciones.dll
+C:\Users\Tim\Desktop\guia c#\martes\operaciones\obj\Debug\operaciones.pdb
