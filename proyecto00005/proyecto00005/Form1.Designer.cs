@@ -36,6 +36,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -72,14 +73,15 @@
             // listBox3
             // 
             this.listBox3.FormattingEnabled = true;
-            this.listBox3.Location = new System.Drawing.Point(74, 198);
+            this.listBox3.Location = new System.Drawing.Point(74, 172);
             this.listBox3.Name = "listBox3";
             this.listBox3.Size = new System.Drawing.Size(247, 121);
             this.listBox3.TabIndex = 3;
+            this.listBox3.SelectedIndexChanged += new System.EventHandler(this.listBox3_SelectedIndexChanged);
             // 
             // treeView1
             // 
-            this.treeView1.Location = new System.Drawing.Point(18, 36);
+            this.treeView1.Location = new System.Drawing.Point(7, 19);
             this.treeView1.Name = "treeView1";
             this.treeView1.Size = new System.Drawing.Size(247, 121);
             this.treeView1.TabIndex = 4;
@@ -97,10 +99,11 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.button2);
             this.groupBox2.Controls.Add(this.treeView1);
             this.groupBox2.Location = new System.Drawing.Point(5, 206);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(297, 165);
+            this.groupBox2.Size = new System.Drawing.Size(297, 178);
             this.groupBox2.TabIndex = 6;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "groupBox2";
@@ -115,6 +118,16 @@
             this.groupBox3.TabIndex = 7;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "groupBox3";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(30, 146);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 8;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
@@ -143,6 +156,7 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.Button button2;
     }
 }
 

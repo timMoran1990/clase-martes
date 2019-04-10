@@ -7,3 +7,12 @@ c:\users\lab3\documents\visual studio 2013\Projects\proyecto00005\proyecto00005\
 c:\users\lab3\documents\visual studio 2013\Projects\proyecto00005\proyecto00005\obj\Debug\proyecto00005.csproj.GenerateResource.Cache
 c:\users\lab3\documents\visual studio 2013\Projects\proyecto00005\proyecto00005\obj\Debug\proyecto00005.exe
 c:\users\lab3\documents\visual studio 2013\Projects\proyecto00005\proyecto00005\obj\Debug\proyecto00005.pdb
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\bin\Debug\proyecto00005.exe.config
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\obj\Debug\proyecto00005.exe
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\obj\Debug\proyecto00005.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\obj\Debug\proyecto00005.Form1.resources
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\obj\Debug\proyecto00005.Properties.Resources.resources
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\obj\Debug\proyecto00005.csproj.GenerateResource.Cache
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\bin\Debug\proyecto00005.exe
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\bin\Debug\proyecto00005.pdb
+C:\Users\Lab3\Downloads\clase-martes-master\clase-martes-master\proyecto00005\proyecto00005\obj\Debug\proyecto00005.pdb
